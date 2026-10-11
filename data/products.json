@@ -1,0 +1,75 @@
+[
+  {
+    "id": "roxsport-01",
+    "slug": "roxsport-01",
+    "name": "حذاء رياضي — RoxSport",
+    "type": "أحذية رياضية",
+    "categoryId": "shoes",
+    "description": "حذاء رياضي أصلي من RoxSport — مريح ومتين للرياضة اليومية.",
+    "price": 45000,
+    "image": "products/roxsport/01.webp",
+    "images": [
+      "products/roxsport/01.webp",
+      "products/roxsport/02.webp",
+      "products/roxsport/03.webp"
+    ],
+    "colors": [],
+    "colorsEnabled": false,
+    "specs": {},
+    "faqs": [],
+    "isNew": true,
+    "isFeatured": true,
+    "stockMeters": 40,
+    "createdAt": "2026-10-10T00:00:00.000Z",
+    "sourceUrl": "https://www.instagram.com/roxsport1_/"
+  },
+  {
+    "id": "roxsport-02",
+    "slug": "roxsport-02",
+    "name": "حقيبة رياضية — RoxSport",
+    "type": "إكسسوارات",
+    "categoryId": "shoes",
+    "description": "حقيبة رياضية عملية من RoxSport — سعة كبيرة وتصميم عصري.",
+    "price": 25000,
+    "image": "products/roxsport/04.webp",
+    "images": [
+      "products/roxsport/04.webp",
+      "products/roxsport/05.webp",
+      "products/roxsport/06.webp"
+    ],
+    "colors": [],
+    "colorsEnabled": false,
+    "specs": {},
+    "faqs": [],
+    "isNew": true,
+    "isFeatured": true,
+    "stockMeters": 60,
+    "createdAt": "2026-10-10T00:00:00.000Z",
+    "sourceUrl": "https://www.instagram.com/roxsport1_/"
+  },
+  {
+    "id": "roxsport-03",
+    "slug": "roxsport-03",
+    "name": "طقم تدريب — RoxSport",
+    "type": "أطقم رياضية",
+    "categoryId": "shoes",
+    "description": "طقم تدريب كامل من RoxSport — مثالي للتمارين الصباحية والمسائية.",
+    "price": 40000,
+    "image": "products/roxsport/07.webp",
+    "images": [
+      "products/roxsport/07.webp",
+      "products/roxsport/08.webp",
+      "products/roxsport/09.webp",
+      "products/roxsport/10.webp"
+    ],
+    "colors": [],
+    "colorsEnabled": false,
+    "specs": {},
+    "faqs": [],
+    "isNew": true,
+    "isFeatured": false,
+    "stockMeters": 35,
+    "createdAt": "2026-10-10T00:00:00.000Z",
+    "sourceUrl": "https://www.instagram.com/roxsport1_/"
+  }
+]

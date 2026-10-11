@@ -1,0 +1,26 @@
+[
+  {
+    "id": "shoes",
+    "slug": "shoes",
+    "name": "أحذية رياضية",
+    "description": "أحذية جري وتدريب",
+    "image": "products/roxsport/01.webp",
+    "accent": "#1565c0"
+  },
+  {
+    "id": "bags",
+    "slug": "bags",
+    "name": "حقائب",
+    "description": "حقائب رياضية عملية",
+    "image": "products/roxsport/04.webp",
+    "accent": "#ff6f00"
+  },
+  {
+    "id": "training",
+    "slug": "training",
+    "name": "أطقم تدريب",
+    "description": "أطقم تدريب متكاملة",
+    "image": "products/roxsport/07.webp",
+    "accent": "#0d47a1"
+  }
+]
