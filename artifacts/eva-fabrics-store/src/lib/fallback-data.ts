@@ -43,7 +43,7 @@ export const trustItems = [
 ] as const
 
 export const homeStory = {
-  title: 'RoxSport — معدات رياضية احترافية',
+  title: 'معدات رياضية لأدائك الأفضل',
   text: 'متجر RoxSport: معدات رياضية احترافية — أحذية، حقائب، وأطقم تدريب بأعلى جودة.',
 }
 
