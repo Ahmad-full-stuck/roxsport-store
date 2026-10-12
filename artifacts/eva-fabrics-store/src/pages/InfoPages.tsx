@@ -319,7 +319,7 @@ const buildAboutStats = (): AboutStat[] => {
     { label: 'about.stat1Label', value: counts.products, note: 'about.stat1Note' },
     { label: 'about.stat2Label', value: counts.categories, note: 'about.stat2Note' },
     { label: 'about.stat3Label', value: 18, note: 'about.stat3Note' },
-    { label: 'about.stat4Label', value: 201, note: 'about.stat4Note' },
+    { label: 'about.stat4Label', value: 7, note: 'about.stat4Note' },
   ]
 }
 
@@ -574,6 +574,32 @@ export function SizeGuidePage() {
             </table>
           </div>
           <p className="muted-note">{lang === 'en' ? 'Measurements in cm. If you are between sizes, choose the larger one.' : 'القياسات بالسنتيمتر. إذا كنت بين مقاسين، اختر الأكبر.'}</p>
+        </section>
+
+
+        <section className="size-chart" aria-label={t('guide.shoesTitle')}>
+          <div className="section-head-tight">
+            <div>
+              <span className="eyebrow"><Ruler size={14} />{t('guide.shoesTitle')}</span>
+              <h2>{t('guide.shoesTitle')}</h2>
+            </div>
+          </div>
+          <div className="table-scroll">
+            <table className="size-table">
+              <thead>
+                <tr>
+                  <th>{t('guide.shoeSizeHead')}</th>
+                  <th>{t('guide.shoeLengthHead')}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {[['40', '25.0'], ['41', '25.7'], ['42', '26.4'], ['43', '27.0'], ['44', '27.7'], ['45', '28.4']].map((row) => (
+                  <tr key={row[0]}>{row.map((cell) => <td key={cell}>{cell}</td>)}</tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p className="muted-note">{lang === 'en' ? 'Foot length in cm. Measure your foot in the morning for the most accurate size.' : 'طول القدم بالسنتيمتر. قِس قدمك صباحاً للحصول على المقاس الأمثل.'}</p>
         </section>
 
         <section className="quick-answers" aria-labelledby="quick-answers-title">
