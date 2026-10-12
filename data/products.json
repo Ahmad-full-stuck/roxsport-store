@@ -20,7 +20,7 @@
       "width": "40 – 45",
       "weight": "خفيف",
       "stretch": "مرن قليلاً",
-      "opacity": "ممتازة",
+      "opacity": "متينة",
       "finish": "ناعم",
       "use": "رياضة ومشي يومي",
       "care": "نظف بإسفنجة وتجنّب الغسيل الآلي"
@@ -57,14 +57,14 @@
     "colors": [],
     "colorsEnabled": false,
     "specs": {
-      "composition": "قطن وبوليستر",
-      "width": "حسب الاستخدام",
-      "weight": "متوسط",
-      "stretch": "مرن قليلاً",
-      "opacity": "ممتازة",
-      "finish": "ناعم",
-      "use": "رياضة يومية",
-      "care": "غسيل بارد"
+      "composition": "نيليرون مقاوم للماء",
+      "width": "مقاس واحد",
+      "weight": "خفيف",
+      "stretch": "غير مرن",
+      "opacity": "متينة",
+      "finish": "عملي",
+      "use": "يومي وسفر",
+      "care": "نظف بقطعة قماش مبللة"
     },
     "faqs": [],
     "isNew": true,
@@ -91,14 +91,14 @@
     "colors": [],
     "colorsEnabled": false,
     "specs": {
-      "composition": "بوليستر متعدد",
+      "composition": "بوليستر",
       "width": "S – XL",
-      "weight": "متوسط",
+      "weight": "متوسط (240 غم)",
       "stretch": "مرن قليلاً",
       "opacity": "ممتازة",
       "finish": "ناعم",
-      "use": "رياضة يومية",
-      "care": "غسيل بارد"
+      "use": "تمرين ولبس يومي",
+      "care": "غسيل بارد وتجفيف مسطّح"
     },
     "faqs": [],
     "isNew": true,

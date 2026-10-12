@@ -51,7 +51,7 @@ export const defaultSiteContent: SiteContent = {
   whatsapp: '9647727282001',
   instagram: 'https://www.instagram.com/roxsport1_/',
   announcementRight: 'شحن إلى جميع محافظات العراق',
-  announcementLeft: 'معدات رياضية أصلية 100%',
+  announcementLeft: 'معدات رياضية احترافية',
   aboutTitle: 'RoxSport — معداتك الرياضية تبدأ من هنا',
   aboutText: 'RoxSport متجر متخصص في المعدات الرياضية الاحترافية — أحذية جري وتدريب، حقائب رياضية، وأطقم تدريب بجودة عالية وأسعار منافسة.',
   contactTitle: 'سؤال عن منتج أو طلب؟',
