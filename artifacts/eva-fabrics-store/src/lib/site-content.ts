@@ -70,7 +70,7 @@ export const defaultSiteContent: SiteContent = {
   newDesc: 'آخر ما أضفناه من منتجات رياضية',
   guideEyebrow: 'قبل الشراء',
   guideTitle: 'اختر المقاس|والمنتج المناسب',
-  guideText: 'راجع جدول المقاسات في صفحة المنتج. قِس طول قدمك بالسنتيمتر وقارنه مع الجدول.',
+  guideText: 'راجع جدول المقاسات في دليل المقاسات. قِس طول قدمك بالسنتيمتر وقارنه مع الجدول.',
   guideCta: 'تصفح المنتجات',
   newsletterEyebrow: 'ابقَ على تواصل',
   newsletterTitle: 'اشتراك بالبريد',
